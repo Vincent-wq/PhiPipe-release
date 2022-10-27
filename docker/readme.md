@@ -3,6 +3,9 @@
 Created by Qing Wang (Vincent) 18th Oct. 2022
 
 ## Running envs
+Ubuntu 18.04 LTS
+
+basic pipelines:
 
 FreeSurfer 6.0.0    
      
@@ -22,11 +25,11 @@ ImageMagick 6.7.2-7
 
 Optional:
 
-MATLAB R2015b
+MATLAB R2015b (deprecated with CAT12)
 
 SPM12 7219
 
-CAT12 1434
+CAT12 1434 (deprecated, based on discussion with Alex 25th. Nov. 2022)
 
 ## 
 
